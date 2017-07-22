@@ -17,3 +17,4 @@ This little app will let you patch and unpatch Clash Royale app on the fly. Make
 # Usage
 
 * Open the app and check uncheck to patch and restore
+* Your proxy url will be saved and reused as default for further patches (obvs it can be changed in-app)
